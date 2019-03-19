@@ -16,6 +16,7 @@
 #include <iostream>
 using namespace std;
 
+const int LXF_TEST = 1111
 
 const int EVENTSNUM = 4096;
 const int EPOLLWAIT_TIME = 10000;
